@@ -35,7 +35,7 @@ ABOUT_TEXT = """
 <b>🔸MedicalismBot pro : <a https://t.me/medicalismBot'>3.0.1</a></b>\n
 <b>🔹my website : <a href='https://mibmedicalism.com'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>\n
 <b>🔸my website2 : <a href='https://medico.mibmedicalism.com'>Fᴏʟʟᴏᴡ</a></b>\n
-<b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Saji_jbz'>Aᴠɪsʜᴋᴀʀ Pᴀᴛɪʟ</a></b>\n
+<b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Saji_jbz'>Saji_jbzd</a></b>\n
 <b>🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : <a href='https://t.me/Saji_jbz'>[ 30 - ᴊᴜɴᴇ - 2022 ] 07:35 ᴀᴍ</a></b>"""
 START_BUTTONS = InlineKeyboardMarkup(
         [[
